@@ -1,5 +1,3 @@
-#Land-Use/Land-Cover Dynamics and Habitat Quality in the Lake Tanganyika Basin (Burundi)#
-
 Overview
 
 This repository contains the datasets and supporting materials for the study investigating the spatiotemporal dynamics of land-use/land-cover (LULC) and habitat quality in the Burundian sector of the Lake Tanganyika Basin. The research examines historical LULC changes from 2000 to 2020 and projected landscape conditions for 2030 and 2040, with particular emphasis on the implications of land-use transitions for habitat quality.
